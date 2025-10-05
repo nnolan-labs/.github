@@ -26,4 +26,4 @@ Expect to find:
 
 ---
 
-Made with ⚡️ by **nnolan-labs**
+Made with ⚡️ by **nnolan-oss**
